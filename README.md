@@ -6,7 +6,7 @@
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.8.2-blue.svg)](https://www.typescriptlang.org/)
 [![Vite](https://img.shields.io/badge/Vite-6.2.0-646CFF.svg)](https://vitejs.dev/)
 
-[在线体验](https://1) | [报告问题](https://github.com/yourusername/chinesechess-funplay/issues)
+[在线体验](https://boom-chinesechess.netlify.app/) | [报告问题](https://github.com/yourusername/chinesechess-funplay/issues)
 
 </div>
 
@@ -24,11 +24,16 @@
 
 本项目是一个创新的中国象棋变体游戏平台，提供两种独特的游戏体验：
 
+![主页截图](sources/imgs/zhuye.jpg)
+
 ### 半盘炸弹棋 (Bombing Chess)
 一种基于中国象棋棋子和半尺寸棋盘的独特策略游戏。通过形成四连珠来"炸毁"对手的棋子，目标是将对手的棋子数量减少到 4 枚以下获胜。
 
+![半盘炸弹棋截图](sources/imgs/boom.jpg)
 ### 经典象棋 (Classic Xiangqi)
 传统的中国象棋游戏，支持双人对战和人机对弈模式，集成了 ChessDB API 提供 AI 对手和走法提示。
+
+![经典象棋截图](sources/imgs/classic.jpg)
 
 ## 🎮 游戏模式
 
