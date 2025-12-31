@@ -1,0 +1,5 @@
+{
+  "name": "Half-Board Bombing Chess",
+  "description": "A unique strategy game based on Chinese Chess pieces and a half-sized grid. Form 4-in-a-row to bomb opponent pieces. Win by reducing the enemy to fewer than 4 pieces.",
+  "requestFramePermissions": []
+}
