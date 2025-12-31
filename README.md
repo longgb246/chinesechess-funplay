@@ -1,6 +1,3 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-
 # 中国象棋趣味玩法 🎮
 
 一个基于中国象棋棋子的创新策略游戏平台，包含半盘炸弹棋和经典象棋两种游戏模式。
