@@ -38,3 +38,11 @@ export interface Move {
   score?: number;
   label?: string;
 }
+
+export type LastMoveType = 'PLACE' | 'MOVE' | 'BOMB' | 'FOUR_IN_ROW';
+
+export interface LastMove {
+  type: LastMoveType;
+  positions: Position[];  // 相关位置数组
+  from?: Position;        // 移动的起点（仅 MOVE 类型）
+}
